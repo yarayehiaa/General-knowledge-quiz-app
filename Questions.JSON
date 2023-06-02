@@ -1,0 +1,80 @@
+{
+  "question": [
+    "Q. What is the capital of France?",
+    "Q. What is the largest mammal in the world?",
+    "Q. What is the currency of Japan?",
+    "Q. Where is Taj Mahal Located?",
+    "Q. For which of the following disciplines is Nobel Prize awarded?",
+    "Q. Galileo was an Italian astronomer who",
+    "Q. Germany signed the Armistice Treaty on ____ and World War I ended",
+    "Q. For seeing objects at the surface of water from a submarine under water, the instrument used is",
+    "Q. Meen a7sn mo3eed fel koleya?"
+  ],
+  "answer": [
+    1,
+    2,
+    3,
+    2,
+    4,
+    4,
+    3,
+    2,
+    4
+  ],
+  "options": [
+    [
+      "Paris",
+      "Italy",
+      "Delhi",
+      "Bangalore"
+    ],
+    [
+      "Giraffe",
+      "Blue Whale",
+      "Shark",
+      "Cat"
+    ],
+    [
+      "EGP",
+      "USD",
+      "JPY",
+      "GBP"
+    ],
+    [
+      "Lucknow",
+      "Agra",
+      "Bhopal",
+      "Delhi"
+    ],
+    [
+      "Physics and Chemistry",
+      "Physiology or Medicine",
+      "Literature, Peace and Economics",
+      "All of the above"
+    ],
+    [
+      "developed the telescope",
+      "discovered four satellites of Jupiter",
+      "discovered that the movement of pendulum produces a regular time measurement",
+      "All of the above"
+    ],
+    [
+      "January 19, 1918",
+      "May 30, 1918",
+      "November 11, 1918",
+      "February 15, 1918"
+    ],
+    [
+      "kaleidoscope",
+      "periscope",
+      "spectroscope",
+      "telescope"
+    ],
+    [
+      "Marwan Nour",
+      "Maroo",
+      "Marwan",
+      "3amy Marwan Nour"
+    ]
+  ]
+}
